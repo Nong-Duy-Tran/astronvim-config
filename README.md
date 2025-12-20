@@ -1,4 +1,4 @@
-# AstroNvim Template
+# AstroNvim For Nong-chan
 
 **NOTE:** This is for AstroNvim v5+
 
